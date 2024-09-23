@@ -3,7 +3,7 @@
 ### Groupe
 - SOUDANI Younes
 - BELUCHE Quentin
-- 
+
 ## Description
 
 Ce projet vise à optimiser la disposition des lettres sur un clavier en utilisant des algorithmes génétiques, une approche métaheuristique inspirée du processus de sélection naturelle. L'idée principale est de créer des "populations" de dispositions de touches, de les évaluer en fonction de critères de performance, puis de sélectionner et de croiser les meilleures dispositions pour en générer de nouvelles.
